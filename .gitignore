@@ -5,3 +5,9 @@ bun.lockb
 
 
 # .env
+
+# config-files
+.eslintcache
+
+#tests
+html-report
